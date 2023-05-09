@@ -110,7 +110,7 @@ xxpay-z-api-base 支付接口的基础包
 </tbody></table>
 
 
-# xxpay4pro
+# jeepay
 聚合支付系统
 四方支付系统
 第四方支付平台
